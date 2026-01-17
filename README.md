@@ -15,7 +15,12 @@
       <em>Menu Principal</em>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/da59278b-42d1-401b-a439-c2702c8bdf6b" width="400" alt="Instruções">
+      <img width="784" height="843" alt="image" src="https://github.com/user-attachments/assets/99ce78fd-ebe8-4af5-8245-a23f49135aa7" width="400" alt="Como Jogar">
+      <br>
+      <em>Menu Principal</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/da59278b-42d1-401b-a439-c2702c8bdf6b" width="400" alt="Jogo">
       <br>
       <em>Tela de Instruções</em>
     </td>
