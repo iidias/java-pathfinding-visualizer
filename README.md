@@ -7,7 +7,20 @@
 
 ## 📸 Screenshots
 
-*(Espaço reservado: Adicione aqui um print da tela do Menu e um print do Algoritmo rodando)*
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/54d99c90-1a42-4fe5-a5f0-80152cfb7633" width="400" alt="Menu Principal">
+      <br>
+      <em>Menu Principal</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/da59278b-42d1-401b-a439-c2702c8bdf6b" width="400" alt="Instruções">
+      <br>
+      <em>Tela de Instruções</em>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Funcionalidades
 
